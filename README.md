@@ -2,12 +2,13 @@
 Welcome to Wook Wear Portfolio Site, a mock website created for showcasing web development skills and projects related to the Wook Wear brand.
 
 ## Table of Contents
-1. [Description] (#description)
-2. [Features] (#features)
-3. [Usage] (#usage)
-4. [Installation] (#installation)
-5. [Credits] (#credits)
-6. [License] (#license)
+
+1. [Description](#description)
+2. [Features](#features)
+3. [Usage](#usage)
+4. [Installation](#installation)
+5. [Credits](#credits)
+6. [License](#license)
 
 ## Description
 Wook Wear Portfolio Site is a mock website designed to serve as a showcase for web development skills and projects related to the fictional brand Wook Wear. It demonstrates proficiency in HTML, CSS, Bootstrap, and other web development technologies.
