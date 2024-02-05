@@ -1,5 +1,5 @@
 # Wook Wear Portfolio Site
-Welcome to Wook Wear Portfolio Site, a mock website created with bootstrap 4.0.
+Welcome to Wook Wear Clothing Site, a mock website created with bootstrap 4.0.
 
 ## Table of Contents
 
